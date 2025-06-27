@@ -5,7 +5,7 @@ This project is a Windows Forms application developed in C# that serves as a Cyb
 Features
 Interactive Chat: Ask questions about specific cybersecurity topics like Malware, Phishing, Ransomware, Network Security, etc.
 
-Task Management: Add and manage tasks with titles, descriptions, and reminders.
+Task Management: Add and manage tasks with titles, descriptions, 
 
 Quiz Module: Test your cybersecurity knowledge with interactive quizzes.
 
